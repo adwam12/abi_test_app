@@ -15,10 +15,10 @@ abi_test_app/
 ├── package-lock.json
 ├── tsconfig.json
 ├── vite.config.ts
+├── index.html
 ├── src
 │   └── app.ts
 ├── frontend
-│   ├── index.html
 │   ├── vite.config.ts
 │   └── src
 │       ├── App.tsx
